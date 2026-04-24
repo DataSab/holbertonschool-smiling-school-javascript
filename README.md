@@ -76,8 +76,3 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 # Challenges and Future Features
 
 This project measures knowledge in HTML, CSS, Bootstrap, JavaScript, and JQuery.
-
-# Author:
-
-* Jhoan   Zamora: [jzamora5](https://github.com/jzamora5)
-* Sabrina Papeau  [Holbiwan](https://github.com/Holbiwan)
